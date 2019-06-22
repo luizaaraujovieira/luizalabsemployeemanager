@@ -1,7 +1,7 @@
 # Luiza Labs Employee Manager
 Teste Back End do Luiza Labs
 <br>
-Meu <a link href="https://www.linkedin.com/in/luiza-ara%C3%BAjo-vieira-b66746143/" target="_blank">Linkedin</a>
+Meu <a link href="https://www.linkedin.com/in/luiza-ara%C3%BAjo-vieira-b66746143/" target="blank">Linkedin</a>
 <br>
 <h3>Antes de abrir o index.html, por favor, siga esse passos:</h3>
 <ul>
